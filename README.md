@@ -2,4 +2,5 @@
 
 My E-Resume using (W3 CSS)
 
-[Open Resume](https://elvistony.github.io/resume/)
+View it Online
+[resume.elvistony.me](https://elvistony.github.io/resume/)
