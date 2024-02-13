@@ -1,0 +1,25 @@
+/* .resume-skills-list > li > span{
+    background-color: lightgrey;
+} */
+tiny{
+    font-size: small;
+    font-weight: 400;
+}
+.no-breaks{
+    page-break-inside: avoid;
+}
+
+@media print{
+    no-print{
+        display: none;
+    }
+}
+
+.resume-section-heading{
+    padding-left: 5px;
+    border-left: 5px solid #54B689;
+}
+
+.resume-section-heading:before{
+    display: none;
+}
